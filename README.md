@@ -99,7 +99,7 @@ INSERT INTO ORDER_ITEM(DISCOUNT,PRICE,QUANTITY,ORDER_ID,PRODUCT_ID)VALUES(0,2799
 - find all : http://34.95.231.9:8080/api/v1/cities
 - find by id : http://34.95.231.9:8080/api/v1/cities/1
 
-### Cliente
+### Client
 - find all : http://34.95.231.9:8080/api/v1/clients
 - find by id  : http://34.95.231.9:8080/api/v1/clients/1
 
