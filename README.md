@@ -88,24 +88,24 @@ INSERT INTO ORDER_ITEM(DISCOUNT,PRICE,QUANTITY,ORDER_ID,PRODUCT_ID)VALUES(0,2799
 ## Available endpoints
 
 ### Category
-- find all :  http://34.95.231.9:8080/api/v1/categories
-- find by id : http://34.95.231.9:8080/api/v1/categories/1
+- find all :  http://34.95.155.20:8081/api/v1/categories
+- find by id : http://34.95.155.20:8081/api/v1/categories/1
 
 ### Product
-- find all : http://34.95.231.9:8080/api/v1/products
-- find by id  : http://34.95.231.9:8080/api/v1/products/1
+- find all : http://34.95.155.20:8081/api/v1/products
+- find by id  : http://34.95.155.20:8081/api/v1/products/1
 
 ### City
-- find all : http://34.95.231.9:8080/api/v1/cities
-- find by id : http://34.95.231.9:8080/api/v1/cities/1
+- find all : http://34.95.155.20:8081/api/v1/cities
+- find by id : http://34.95.155.20:8081/api/v1/cities/1
 
 ### Client
-- find all : http://34.95.231.9:8080/api/v1/clients
-- find by id  : http://34.95.231.9:8080/api/v1/clients/1
+- find all : http://34.95.155.20:8081/api/v1/clients
+- find by id  : http://34.95.155.20:8081/api/v1/clients/1
 
 ### Order
-- find all : http://34.95.231.9:8080/api/v1/orders
-- find by id : http://34.95.231.9:8080/api/v1/orders/1
+- find all : http://34.95.155.20:8081/api/v1/orders
+- find by id : http://34.95.155.20:8081/api/v1/orders/1
 
 
 # Author
